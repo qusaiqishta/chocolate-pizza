@@ -1,0 +1,179 @@
+#s1{
+  float: right;  
+  position: relative;
+}
+#list{
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div ul{
+    list-style: none;
+}
+
+div ul li{
+    text-decoration: none;
+    padding: 8px;
+    
+}
+
+#leftlist{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 1200px;
+    width: 2000px;
+}
+
+#rightlist{
+    float: right;
+    position: absolute;
+    right: 400px;
+    top: 1200px;
+    
+         
+}
+.check{
+    text-decoration:line-through;
+}
+#nan img{
+    text-align: center;
+}
+
+#arti{
+    
+    text-align: justify;
+    padding-left: 380px;
+    padding-right: 380px;
+}
+
+.buttom{
+    background-color: gray;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+    width: 50%;
+ 
+}
+
+.buttomsection img{
+    float: left;
+}
+
+footer img, p img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    #final{
+        display: inline-block;
+    }
+
+    
+
+    
+
+
+footer p{
+    text-align: center;
+}
+
+
+footer {
+    text-align: center;
+    color: gray;
+    height:300px;
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+
+h3{
+    font-weight: bold;
+}
+
+#headsection{
+    position: relative;
+}
+
+
+
+.head h1  {
+    position: relative;
+    left: 380px;
+    top: 60px;
+}
+.head h4{
+    position: absolute;
+    left: 380px;
+    top: 220px;
+    color: gray;
+}
+
+
+
+#s1 img{
+    position: relative;
+    right: 400px;
+    top:-50px;
+}
+
+
+#p1 img{
+    position: relative;
+    right: 300px;
+}
+
+.finalid{
+    background-color:gray;
+    color: gray;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:53%;
+    height:10px;
+    margin-top: 30px;
+   }
+   .navv{
+       background-color:gray;
+    color: gray;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:53%;
+    height:10px;
+    margin-top: 15px;
+
+   }
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
