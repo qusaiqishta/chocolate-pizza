@@ -1,3 +1,5 @@
+
+
 #s1{
   float: right;  
   position: relative;
@@ -44,8 +46,8 @@ div ul li{
 #arti{
     
     text-align: justify;
-    padding-left: 380px;
-    padding-right: 380px;
+    padding-left: 300px;
+    padding-right: 300px;
 }
 
 .buttom{
@@ -106,13 +108,13 @@ h3{
 
 .head h1  {
     position: relative;
-    left: 380px;
-    top: 60px;
+    left: 290px;
+    top: 45px;
 }
 .head h4{
     position: absolute;
-    left: 380px;
-    top: 220px;
+    left: 300px;
+    top: 210px;
     color: gray;
 }
 
@@ -141,29 +143,27 @@ h3{
     margin-top: 30px;
    }
    .navv{
-       background-color:gray;
+       background-color:gray ;
     color: gray;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:53%;
+    width:60%;
     height:10px;
     margin-top: 15px;
-
+    
+opacity: 70%;
    }
    
-   
 
 
+  button {
+       transform: translate(-50px,80px);
+   }
 
-
-
-
-
-
-
-
-
+.finalid{
+    width: 60%;
+}
 
 
 
